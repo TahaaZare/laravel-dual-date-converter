@@ -1,0 +1,21 @@
+{
+    "name": "tahaazare/dual-date-converter",
+    "description": "Convert Jalali <-> Gregorian dates in Laravel",
+    "type": "library",
+    "license": "MIT",
+    "require": {
+        "morilog/jalali": "^5.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "TahaZare\\DualDateConverter\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "TahaaZare\\DualDateConverter\\DualDateConverterServiceProvider"
+            ]
+        }
+    }
+}
