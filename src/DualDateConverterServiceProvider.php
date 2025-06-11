@@ -1,5 +1,7 @@
 <?php
 
+namespace TahaaZare\DualDateConverter;
+
 class DualDateConverterServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     public function boot(): void
