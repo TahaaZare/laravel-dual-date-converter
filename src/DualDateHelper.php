@@ -1,6 +1,6 @@
 <?php
 
-namespace App\Helpers;
+namespace TahaaZare\DualDateConverter;
 
 use Morilog\Jalali\Jalalian;
 use Morilog\Jalali\CalendarUtils;
