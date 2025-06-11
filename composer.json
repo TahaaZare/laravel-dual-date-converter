@@ -4,6 +4,7 @@
     "type": "library",
     "license": "MIT",
     "require": {
+        "php": "^8.1",
         "morilog/jalali": "^3.4"
     },
     "autoload": {
@@ -11,6 +12,14 @@
             "TahaZare\\DualDateConverter\\": "src/"
         }
     },
+    "authors": [
+        {
+            "name": "TahaaZare",
+            "email": "tahaazre.dev@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "prefer-stable": true,
     "extra": {
         "laravel": {
             "providers": [
