@@ -4,7 +4,7 @@
     "type": "library",
     "license": "MIT",
     "require": {
-        "morilog/jalali": "^5.0"
+        "morilog/jalali": "^3.4"
     },
     "autoload": {
         "psr-4": {
