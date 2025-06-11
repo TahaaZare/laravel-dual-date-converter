@@ -18,7 +18,7 @@
 ## 📦 Installation / نصب
 
 ```bash
-composer require tahaazare/laravel-dual-date-converter
+composer require tahaazare/dual-date-converter
 ```
 
 (یا اگر به‌صورت لوکال استفاده می‌کنید، با path به پروژه متصل کنید)
