@@ -36,20 +36,6 @@ DualDateHelper::toJalali('2003-11-12');     // 1382-08-21
 
 ---
 
-## 📤 Publish Helper
-
-```bash
-php artisan vendor:publish --tag=dual-date-helper
-```
-
-📁 بعد از اجرا فایل `DualDateHelper.php` به مسیر زیر منتقل می‌شود:
-
-```
-app/Helpers/DualDateHelper.php
-```
-
----
-
 ## 📃 License / مجوز
 
 MIT © TahaaZare
