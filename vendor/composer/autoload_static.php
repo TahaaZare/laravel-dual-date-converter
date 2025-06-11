@@ -19,7 +19,7 @@ class ComposerStaticInit13b34367755dcc70c9b852579baf4c78
     public static $prefixLengthsPsr4 = array (
         'T' => 
         array (
-            'TahaZare\\DualDateConverter\\' => 27,
+            'TahaaZare\\DualDateConverter\\' => 28,
         ),
         'S' => 
         array (
@@ -49,7 +49,7 @@ class ComposerStaticInit13b34367755dcc70c9b852579baf4c78
     );
 
     public static $prefixDirsPsr4 = array (
-        'TahaZare\\DualDateConverter\\' => 
+        'TahaaZare\\DualDateConverter\\' => 
         array (
             0 => __DIR__ . '/../..' . '/src',
         ),

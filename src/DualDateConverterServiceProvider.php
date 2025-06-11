@@ -2,7 +2,9 @@
 
 namespace TahaaZare\DualDateConverter;
 
-class DualDateConverterServiceProvider extends \Illuminate\Support\ServiceProvider
+use Illuminate\Support\ServiceProvider;
+
+class DualDateConverterServiceProvider extends ServiceProvider
 {
     public function boot(): void
     {
