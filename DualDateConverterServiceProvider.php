@@ -1,6 +1,6 @@
 <?php
 
-class DualDateConverterServiceProvider extends ServiceProvider
+class DualDateConverterServiceProvider extends \Illuminate\Support\ServiceProvider
 {
     public function boot(): void
     {
